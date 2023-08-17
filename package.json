@@ -1,0 +1,26 @@
+{
+  "name": "project",
+  "dependencies": {
+    "@firebase/firestore": "^4.1.0",
+    "@grpc/proto-loader": "^0.7.8",
+    "firebase": "^10.1.0",
+    "nanoid": "^3.3.6",
+    "protobufjs": "^7.2.4",
+    "react": "17.0.2",
+    "react-confetti": "^6.1.0",
+    "react-dom": "17.0.2",
+    "react-mde": "11.5.0",
+    "react-split": "2.0.13",
+    "showdown": "1.9.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "*",
+    "vite": "latest"
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
